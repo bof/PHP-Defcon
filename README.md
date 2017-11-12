@@ -1,6 +1,8 @@
 PHP Defcon Extension
 ====================
 
+(PHP5)
+
 PHP Defcon is an PHP extension to add constants at start time of the engine for the entire runtime.
 Normally, you would suppose to add config constants to your PHP Script for every request like this:
 
